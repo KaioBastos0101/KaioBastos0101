@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Olá, me chamo Kaio e eu sou um engenheiro de software focado em criar aplicativos mobile, gostaria de compartilhar meus projetos com objetivo de demonstrar minhas habilidades em desenvolver softwares, por enquanto, esse perfil não terá objetivo de divulgar projetos para conseguir um emprego.</p>
+<p data-importer="text" align="left">Olá, me chamo Kaio e eu sou um engenheiro de software focado em criar aplicativos mobile, gostaria de compartilhar meus projetos com objetivo de demonstrar minhas habilidades em desenvolver softwares, por enquanto, esse perfil não terá objetivo de divulgar meus projetos para conseguir um emprego.</p>
 
 ###
 
