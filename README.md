@@ -21,7 +21,7 @@
 <div data-importer="techs" align="left">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:Kotlin_icon_(2021-present).svg" height="40" alt="kotlin logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
