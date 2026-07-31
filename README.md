@@ -6,7 +6,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">Sobre mim </h2>
 
 ###
 
