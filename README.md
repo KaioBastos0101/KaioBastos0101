@@ -25,5 +25,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" height="40" alt="maven logo">
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo">
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo">
+  <img width="12" />
 </div>
-<h1 style="font-family: Arial;">Java</h1> <h1 style="font-family: Arial;">Kotlin</h1>
