@@ -23,5 +23,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo">
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" height="40" alt="maven logo">
+  <img width="12" />
 </div>
 ###
