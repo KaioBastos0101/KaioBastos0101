@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo">
   <img width="12" />
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/springboot.svg" height="50" alt="Spring Boot logo" />
+  <img src="https://cdn.simpleicons.org/springboot" height="50" alt="Spring Boot logo" />
   <img width="12" />
-  <p align="center">
 </div>
