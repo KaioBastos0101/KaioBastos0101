@@ -29,7 +29,6 @@
   <img width="12" />
   <p align="center">
   <img
-src="https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-tools/spring-boot-cli/src/main/resources/logo.svg" height="40" alt="Spring Boot logo">
+src="https://cdn.simpleicons.org/springboot" height="40" alt="Spring Boot logo">
   <img width="12" />
-  <p align="center">
 </div>
