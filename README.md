@@ -27,6 +27,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo">
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo">
+  <p align="center">
+  <img
+src="https://raw.githubusercontent.com/spring-projects/spring-boot/main/spring-boot-project/spring-boot-tools/spring-boot-cli/src/main/resources/logo.svg" height="40" alt="Spring Boot logo">
   <img width="12" />
+  <p align="center">
 </div>
